@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "EmployeeMenu";
+}
+
+<h2>Hello @TempData["Name"]</h2>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+
+    <h3>@Html.ActionLink("Lista wszystkich klientów", "GetAllClients", "Home")</h3>
+    <h3>@Html.ActionLink("Dodaj klienta", "CreateClientForm", "Home")</h3>
+    <h3>@Html.ActionLink("Usuń klienta", "DeleteClient", "Home")</h3>
+
+</div>

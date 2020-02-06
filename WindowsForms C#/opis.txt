@@ -1,0 +1,13 @@
+Greenhorn Innkeeper!
+Marzyłeś kiedyś, żeby prowadzić własną karczmę w świecie fantasy! Teraz możesz spróbować!
+
+CEL GRY: PRZETRWAĆ JAK NAJDŁUŻEJ DNI
+PRZEGRANA: złoto, jedzenie lub piwo w ilości 0 lub mniejszej
+
+Do twojej tawerny będą przybywać goście szukający piwa oraz strawy! Niektórzy również będą chcieli
+zostać na noc i skorzystać z twoich pokoi! Niekiedy będziesz mógł zorganizowac turniej pokera lub
+inenj pijańskiej gry, żeby zachęcić więcej gości do przyjścia! Lecz uważaj niekiedy zaatakują cię
+szczury lub bandyci wykradając i niszcząc twoje surowce, co może spowodować nagły koniec gry! 
+Dlatego warto wybierać się na targowisko i robić zapasy piwa oraz strawy! 
+Życzę miłej zabawy!
+

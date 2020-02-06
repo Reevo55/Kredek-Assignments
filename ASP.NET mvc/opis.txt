@@ -1,0 +1,3 @@
+Aplikacja głównie oparta na wiadomościach z laboratorium. Jest to koncepcyjna i bardzo uproszczona
+aplikacja slużąca do wpisywania gości w restauracji. Bedzie mozna prosto rozszerzyc ją o 
+baze danych. 

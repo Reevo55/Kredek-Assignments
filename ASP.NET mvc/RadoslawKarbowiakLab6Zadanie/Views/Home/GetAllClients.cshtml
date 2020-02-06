@@ -1,0 +1,23 @@
+﻿@model List<ClientViewModel>
+
+@{
+    ViewData["Title"] = "GetAllClients";
+}
+
+<h2>Wszyscy klienci</h2>
+@{
+    int i = 0;
+    foreach (var client in Model)
+    {
+        <div>
+            <h1 style="font-size: 24px">
+                ID: @i | Imie: @client.FirstName | Nazwisko: @client.SecondName |
+                Zamówienie: @client.Order | Rachunek: @client.Bill zł
+            </h1>
+        </div>
+        i++;
+    }
+
+    <h3>@Html.ActionLink("Powrót do Menu", "DefaultMenu", "Home")</h3>
+
+}

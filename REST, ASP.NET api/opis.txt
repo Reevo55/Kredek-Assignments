@@ -1,0 +1,2 @@
+Api służące do dodawania usuwania, modyfikowania i  pobierania uczniów szkoły oraz nauczycieli. Connection string znajduję się w klasie schooldatabase, 
+jesli bedzie potrzeba go zmienic.

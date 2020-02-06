@@ -1,0 +1,33 @@
+﻿@model ClientViewModel
+
+@{
+    ViewData["Title"] = "Delete client form";
+}
+
+<h2>Create client</h2>
+
+@using (Html.BeginForm("DeleteClient", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    //Imie
+    <div class="col-md-12">
+        @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2 col-lg-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.FirstName, new { @class = "form-control" })
+        </div>
+    </div>
+    //Nazwisko
+    <div class="col-md-12">
+        @Html.LabelFor(model => model.SecondName, new { @class = "control-label col-md-2 col-lg-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.SecondName, new { @class = "form-control" })
+        </div>
+    </div>
+    //Przycisk wysylajacy formularz
+    <div class="col-md-12">
+        <div class="col-md-12">
+            <input type="submit" value="Send" class="btn btn-success" />
+        </div>
+    </div>
+
+}

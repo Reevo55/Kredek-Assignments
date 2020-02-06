@@ -1,0 +1,12 @@
+Stworzyłem, program do zarządzania zasobami ludzkimi w pewnej sieci klinik, ogólnie mówiąc ośrodków zdrowia. Można dodawać 
+usuwac, edytowac pracowników, lekarzy oraz pacjentów. Dzięki czemu nadzór nad siecią klinik staje się prostszy. Baza danych jest wypełniona 
+niewielką ilością danych ale wystarczającą do zaprezentowania tematu. Niestety jest jeden mankament, który zauważyłem a nie potrafię go
+naprawić. Po naciśnięciu przycisku "wyświetl" nie można już dodawać rekordów. Błąd ten również znajduję się w zadaniu z zajęc i nie 
+potrafię go obejść. Może w przyszłych commitach mi się uda. Każda tabela jest połączona relacyjnie z inną więc relacji jest wystarczająco.
+Tabela staff, doctors i patients są gotowe do usuwania wysweitlania edytowania i dodawania. Wszystkie tabele da się zobaczyć w aplikacji.
+Również te z placówkami i miastami. 
+
+
+
+UWAGA, WERSJA, KTÓRĄ SCOMMITOWAŁEM W PEWNYM COMMITCIE PSUJE MI APLIKACJE, JEŚLI BĘDZIE TRZEBA TO JĄ POPRAWIE, ALE TERAZ NIE MAM NA TO CZASU
+JEŚLI BĘDZIE JAKIŚ PROBLEM PROSZĘ DO MNIE NAPISAĆ Radosław Karbowiak.

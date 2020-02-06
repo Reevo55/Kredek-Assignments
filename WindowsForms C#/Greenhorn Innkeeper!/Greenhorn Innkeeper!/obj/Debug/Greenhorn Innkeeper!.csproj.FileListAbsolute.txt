@@ -1,0 +1,10 @@
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\bin\Debug\Greenhorn Innkeeper!.exe.config
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\bin\Debug\Greenhorn Innkeeper!.exe
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\bin\Debug\Greenhorn Innkeeper!.pdb
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn Innkeeper!.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn_Innkeeper_.Properties.Resources.resources
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn Innkeeper!.csproj.GenerateResource.cache
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn Innkeeper!.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn Innkeeper!.exe
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn Innkeeper!.pdb
+C:\Users\Radek\source\repos\Greenhorn Innkeeper!\Greenhorn Innkeeper!\obj\Debug\Greenhorn_Innkeeper_.FormMain.resources

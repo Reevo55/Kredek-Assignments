@@ -1,0 +1,3 @@
+Stworzyłem tą stronę, ponieważ na kolejnych zajęciach z hiszpańskiego mam kartkówkę z liczebników, więc posłuży mi ona do nauki,
+oraz możliwe, że komuś innemu również. Używam w tym projekcie wielu ciekawych rzeczy. Między innymi bootstrapa, jquery oraz api 
+które służy do tłumaczenia obcych języków, reszta jest wypełniona rzeczami wymaganymi w zadaniu domowym. 

@@ -1,0 +1,15 @@
+Postanowilem stworzyc program, z ktorego bede mogl w przyszlosci korzystac. Jestem bardzo zadowolony co z tego wyszlo.
+Moj dziennik zadan do wykonania na dane dni wydaje sie byc wygodny w uzytkowaniu i przejrzysty. 
+Nie trzeba zbyt dlugo tlumaczyc na czym polega. Mozna dodawac zadania do wykonania, usuwac je, zaznaczac ze sa juz zrobione itp itd.
+Dzieki rejestracji oraz przypisaniu zadan do user'ow program nie dzieli duza bariera nawet od wstawienia na serwer i bycia uzywanym
+przez wiele osob. Teraz jednak pozwala to obslugiwac swoj dziennik wielu osobom na jednym komputerze.
+
+WAZNE LOGOWAC SIE MOZNA JAKO 'default' haslo: 'aaa' lub inaczej tak jak podane w bazie danych
+Mozna oczywiscie rozwniez sie zarejestrowac. Zadan jest malo w bazie danych, poniewaz i tak sa one na poszczegolne dni. 
+Dodanie nowych zadan jest proste wiec nie powinno stanowić problemu.
+
+DataGridView jest wykorzystywany do pokazywania listy zadan do wykonania.
+Pobieranie jest zaimplementowane jako dodawanie zadan do wykonania.
+Tabele sa dwie, tabela zadan do wykoanania oraz tabela userow.
+Zapis(dodawanie nowych zadan), odczyt(odczytuje userow w sqlconnector itp idp), usuwanie(usuwanie iepotrzebych zadan), 
+wyswietlanie(wyswietlanie w datagridview), rowniez zaimplementowalem UPDATE(przy zmianie tego czy zadanie zostalo wykonane czy nie)

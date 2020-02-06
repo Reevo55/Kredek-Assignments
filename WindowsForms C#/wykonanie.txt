@@ -1,0 +1,9 @@
+Klasy abstrakcyjne wykorzystałem do zrobienia gości, wrogów oraz czynnosci w karczmie. Przykładowo goście dzielą
+się na tych którzy chcą zostać na noc i tych którzy są jedynie się napić i napoić. Różni ich system napiwku jaki
+dają tavernmistrzowi, który idzie mu gdzieś za fartuch. Kolejnym przykładem jest enemy, w którym różni
+się to jakie szkody zada zależnie od typu. Program wykorzystuje listy w wielu miejscach. Np. listagosci,
+lista bioracych udzial w activity itp itd. Uzywam stream writer zeby wygodne pobierac dane w innym 
+Form i przekazywac je spowrotem czytając własnie streamReaderem. Stream readera używam również do
+wczytania imion postaci fantasy które są przydatne w tworzeniu nowych gości.
+Używam groupboxa w którym jest listview, który wyświetla gości, checkbox/radiobox byl uzyty przeze mnie tdyzein temu
+uzywam rownież progress bar, pictureBox itp.
